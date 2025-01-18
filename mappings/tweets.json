@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/user/jsmith/tweets"
+  },
+  "response": {
+    "status": 200,
+    "body": "[{\"content\":\"First post!\",\"images\":[{\"url\":\"https://techops-recsys-lateral-hiring.github.io/moments-data/images/tweets/001.jpeg\"},{\"url\":\"https://techops-recsys-lateral-hiring.github.io/moments-data/images/tweets/002.jpeg\"},{\"url\":\"https://techops-recsys-lateral-hiring.github.io/moments-data/images/tweets/003.jpeg\"}],\"sender\":{\"username\":\"cyao\",\"nick\":\"Cheng Yao\",\"avatar\":\"https://techops-recsys-lateral-hiring.github.io/moments-data/images/user/avatar/001.jpeg\"},\"comments\":[{\"content\":\"Good.\",\"sender\":{\"username\":\"leihuang\",\"nick\":\"Lei Huang\",\"avatar\":\"https://techops-recsys-lateral-hiring.github.io/moments-data/images/user/avatar/002.jpeg\"}},{\"content\":\"Like it too\",\"sender\":{\"username\":\"weidong\",\"nick\":\"WeiDong Gu\",\"avatar\":\"https://techops-recsys-lateral-hiring.github.io/moments-data/images/user/avatar/003.jpeg\"}}]},{\"sender\":{\"username\":\"xinge\",\"nick\":\"Xin Ge\",\"avatar\":\"https://techops-recsys-lateral-hiring.github.io/moments-data/images/user/avatar/000.jpeg\"}},{\"images\":[{\"url\":\"https://techops-recsys-lateral-hiring.github.io/moments-data/images/tweets/004.jpeg\"}],\"sender\":{\"username\":\"yangluo\",\"nick\":\"Yang Luo\",\"avatar\":\"https://techops-recsys-lateral-hiring.github.io/moments-data/images/user/avatar/004.jpeg\"}},{\"images\":[{\"url\":\"https://techops-recsys-lateral-hiring.github.io/moments-data/images/tweets/005.jpeg\"}],\"sender\":{\"username\":\"jianing\",\"nick\":\"Jianing Zheng\",\"avatar\":\"https://techops-recsys-lateral-hiring.github.io/moments-data/images/user/avatar/005.jpeg\"}},{\"error\":\"losted\"},{\"content\":\"Unlike many proprietary big data processing platform different, Spark is built on a unified abstract RDD...\",\"images\":[{\"url\":\"https://techops-recsys-lateral-hiring.github.io/moments-data/images/tweets/006.jpeg\"}],\"sender\":{\"username\":\"weifan\",\"nick\":\"Wei Fan\",\"avatar\":\"https://techops-recsys-lateral-hiring.github.io/moments-data/images/user/avatar/006.jpeg\"}}]",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

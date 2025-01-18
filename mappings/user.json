@@ -1,0 +1,14 @@
+{
+    "request": {
+      "method": "GET",
+      "url": "/user/jsmith"
+    },
+    "response": {
+      "status": 200,
+      "body": "{\n      \"profile-image\": \"https://techops-recsys-lateral-hiring.github.io/moments-data/images/user/profile-image.jpeg\",\n      \"avatar\": \"https://techops-recsys-lateral-hiring.github.io/moments-data/images/user/avatar.png\",\n      \"nick\": \"Huan Huan\",\n      \"username\": \"hengzeng\"\n    }",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  }
+  
