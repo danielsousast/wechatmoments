@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React from 'react';
 import {View, StyleSheet} from 'react-native';
 import { Header } from '../../components/Header/Header';
 import { TweetList } from '../../components/TweetList/TweetList';

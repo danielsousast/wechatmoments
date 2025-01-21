@@ -2,7 +2,7 @@ import renderer from 'react-test-renderer';
 import React from 'react';
 
 import {Tweet} from './Tweet';
-import {ITweet} from '../../../types';
+import { ITweet } from '../../../features/tweet/interfaces';
 
 describe('Tweet', () => {
   const testTweet: ITweet = {
